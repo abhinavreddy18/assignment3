@@ -1,0 +1,15 @@
+<taglib>
+   <tlib-version>1.0</tlib-version>
+   <jsp-version>2.0</jsp-version>
+   <short-name>Example TLD</short-name>
+   
+   <tag>
+      <name>If</name>
+      <tag-class>com.assignment3.Conditionaltag</tag-class>
+      <body-content>empty</body-content>
+      
+      <attribute>
+         <name>test</name>
+      </attribute>
+   </tag>
+</taglib>
